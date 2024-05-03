@@ -10,9 +10,9 @@ terraform {
     }
   }
     backend "azurerm" {
-      resource_group_name  = "testrvrdelete_group"
-      storage_account_name = "testrvrdeletegroupad35"
-      container_name       = "tfsre"
+      resource_group_name  = "poi-iac"
+      storage_account_name = "storagepoilares"
+      container_name       = "poi-iac-container"
       key                  = "terraform.tfstate"
     }
   }
