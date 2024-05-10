@@ -1,8 +1,8 @@
-group_name  = "rg_demos_tvr"
+group_name  = "poi-iac"
 location    = "eastus"
 tags        = {
   environment = "dev"
   project     = "integration"
-  owner       = "rvr"
+  owner       = "lares"
   destination = "azure"
 }
