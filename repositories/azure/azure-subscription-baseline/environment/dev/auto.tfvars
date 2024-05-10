@@ -1,4 +1,4 @@
-group_name  = "poi-iac"
+group_name  = "tf-poi-iac"
 location    = "eastus"
 tags        = {
   environment = "dev"
